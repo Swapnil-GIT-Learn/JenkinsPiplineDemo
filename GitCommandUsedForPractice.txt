@@ -68,3 +68,68 @@
    82  git pull LearRepo GIT-Learn
    83  git reflog
    85  history | grep "git " > command.txt
+ git status
+ git add Git-Commands.txt
+ git checkout main
+ git add Git-Commands.txt "add new File"
+ git add Git-Commands.txt -m "add new File"
+ git add .
+ git commit -m "add new file"
+ git checkout GIT-Learn
+ git checkout GIT-Learn 
+ git remote add LearRepo https://github.com/Swapnil-GIT-Learn/JenkinsPiplineDemo.git
+ git push -u LearRepo GIT-Learn 
+ git pull LearRepo GIT-Learn 
+ git commit -m "change'
+ git commit -m "change"
+ git commit -m "conflictsFixed"
+ git push
+ git pull LearRepo main
+ git branch -d GIT-Learn
+ git branch -D GIT-Learn
+ git push -u LearRepo main
+ git push --delete LearRepo GIT-Learn
+ git checkout -b GIT-Learn
+ git checkout -b GIT-Learn-I
+ git branch -L
+ git branch -l
+ git branch List
+ git branch -d List 
+ git push -u LearRepo GIT-Learn
+ git log
+ git history
+ git reflog
+ history | grep "git " > command.txt
+ git commit -m "New File"
+ git checkout GIT-Learn-I
+ git push -u LearRepo GIT-Learn-I
+ git log --graph
+ git checkout GIT-Learn-I 
+ history | grep 'git' > GitCommandUsedForPractice.txt
+ git -l
+ git config -list
+git config --list
+git status
+git track
+git ls-tree -r HEAD --name-only
+git-ls-files
+git ls-files
+git -l
+git l
+git log
+git add .
+git commit -m "NewBranch"
+git log --graph
+git push -u LearRepo GIT-Learn-I
+git checkout main
+git log --graph --oneline 
+git pull LearRepo
+git checkout GIT-Learn-I 
+git pull LearRepo GIT-Learn-I
+git branch -d GIT-Learn-I
+git main
+git checkout main 
+checkout GIT-Learn-I
+git checkout GIT-Learn 
+git checkout -b GIT-Learn-I
+history | grep 'git' | cut --complement -d ' ' -f 1-4 > GitCommandUsedForPractice.txt
