@@ -1,0 +1,67 @@
+   11  git status
+   12  git status
+   13  git status
+   14  git add Git-Commands.txt
+   15  git status
+   16  git checkout main
+   17  git status
+   22  git status
+   23  git status
+   24  git add Git-Commands.txt "add new File"
+   25  git add Git-Commands.txt -m "add new File"
+   26  git add .
+   28  git commit -m "add new file"
+   30  git status
+   31  git checkout main
+   33  git checkout GIT-Learn
+   35  git status
+   36  git add .
+   37  git status
+   38  git checkout GIT-Learn 
+   39  git remote add LearRepo https://github.com/Swapnil-GIT-Learn/JenkinsPiplineDemo.git
+   40  git push -u LearRepo GIT-Learn 
+   42  git push -u LearRepo GIT-Learn 
+   43  git add .
+   44  git status
+   45  git pull LearRepo GIT-Learn 
+   46  git commit -m "change'
+   47  git commit -m "change"
+   48  git pull LearRepo GIT-Learn 
+   49  git add .
+   50  git commit -m "conflictsFixed"
+   51  git push
+   52  git checkout main
+   54  git checkout GIT-Learn 
+   55  git checkout main
+   56  git pull LearRepo main
+   58  git branch -d GIT-Learn
+   59  git checkout GIT-Learn
+   60  git push -u LearRepo GIT-Learn 
+   62  git branch -D GIT-Learn
+   63  git checkout main
+   64  git push -u LearRepo main
+   65  git branch -d GIT-Learn
+   66  git push --delete LearRepo GIT-Learn
+   67  git checkout -b GIT-Learn
+   70  git checkout -b GIT-Learn-I
+   72  git branch -L
+   73  git branch -l
+   74  git branch List
+   75  git branch -l
+   76  git branch -d List 
+   77  git branch -l
+   78  git push -u LearRepo GIT-Learn
+   80  git log
+   81  git history
+   83  git reflog
+   85  history | grep "git " > command.txt
+   86  git add .
+   87  git commit -m "New File"
+   88  git push -u LearRepo GIT-Learn
+   89  git checkout GIT-Learn-I
+   91  git push -u LearRepo GIT-Learn-I
+   92  git log --graph
+   93  git checkout main
+   94  git log --graph
+   95  git checkout GIT-Learn-I 
+   96  history | grep 'git' > GitCommandUsedForPractice.txt
