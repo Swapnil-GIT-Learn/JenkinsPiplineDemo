@@ -65,3 +65,6 @@
    94  git log --graph
    95  git checkout GIT-Learn-I 
    96  history | grep 'git' > GitCommandUsedForPractice.txt
+   82  git pull LearRepo GIT-Learn
+   83  git reflog
+   85  history | grep "git " > command.txt
