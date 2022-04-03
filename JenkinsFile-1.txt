@@ -27,5 +27,10 @@ pipeline {
                 echo 'Release the Build to environment'
             }
         }
+        stage('SanityTest') {
+            steps {
+                echo 'SanityTest the Build to environment'
+            }
+        }      
     }
 }
