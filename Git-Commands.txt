@@ -1,3 +1,7 @@
 # Git File it Commit 
 
 # Git Commit -m "message"
+
+# Git File at Local Commit 
+
+# Git file at Remote Commit
