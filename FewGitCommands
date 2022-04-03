@@ -1,0 +1,116 @@
+pwd
+cd C:\Users\upadhswa\DevOpps\GIT
+ls -lat
+git logg
+git log
+git config --list
+git help commit
+pd
+ppwdppwdxzkjcjcjsd
+cd mygitprac/
+ls -at
+git lo
+ls -ltr
+git init
+git commit -am 'comminting all the files'
+git remote add githubrepo https://github.com/gituserprac/MyIntialRepo.git
+git remote
+git push -u githubrepo master
+exit
+ls ltr
+cd NewJiraSandbox
+git checkout SIT
+git checkout branch SIT
+git checkout -b SIT
+git branch
+git branch help
+git
+git branch -a
+git branch List
+git branch -L
+git history
+history
+git master
+git branch master
+git branch -b master
+git checkout -b master
+git config -list
+cd ../
+git NewJiraSandbox/
+git --hel
+git --help
+git help -a
+cd NewJiraSandbox/
+git status
+git commit -a -m "SIMBASE-6"
+git pull
+git remote -v
+git pull https://git.etb.tieto.com/SimBase/simbase.git master
+git commit -a -m "adding centura"
+git add TelBiz
+git add TelSIMS
+git add 'TelSIMS DDE Server'
+git commit -m "adding centura"
+remote git pull https://git.etb.tieto.com/SimBase/simbase.git master
+git fetch https://git.etb.tieto.com/SimBase/simbase.git master
+ git pull https://git.etb.tieto.com/SimBase/simbase.git
+git fetch
+cd Bkp/
+ls -lrt
+cd simbase/
+ls
+cd cachedb
+vi MySql.sql 
+git add MySql.sql
+git commit -m "SIMBASE-6"
+git push -u origin master
+cd ../../../
+rm -rf Procedure/ NewJiraSandbox/ 'TelSIMS DDE Server'/ TelBiz/ TelSIMS/ Bkp/ TestPurp/
+rm -rf TestPurp/
+rm -rf Bkp/
+cd Bkp/simbase/
+rm -rf simbase/
+mkdir Main_Release
+cd Main_Release/
+git clone githubrepo
+git clone https://git.etb.tieto.com/SimBase/simbase.git
+git checkout master
+git checkout -- *
+cd ../simbase/
+git cachedb/
+cd cachedb/
+git add MySql_1.sql
+git commit -m "SIMBASE-13"
+git push -u origin master 
+git merge master
+git push
+git checkout UAT
+git merge SIT
+vi MySql.sql
+git checkout PATCHES_182
+git cherry-pick -x 401f98ff
+git cherry-pick --abort
+ git commit --allow-empty
+git cherry-pick -x 0bbf11f8
+git checkout -b MKS87711
+vi MySql_1.sql 
+git commit -a -m "SIMBASE-13"
+vi cachedb/MySql_1.sql
+sdiff -s cachedb/MySql_1.sql
+git checkout MKS87711 
+git merge MKS87711 
+vi AD/BaseDictionary_R1_v1.sql
+vi ../AD/BaseDictionary_R1_v1.sql
+git merge MKS87711
+vi ../AD/BaseDictionary_R1_v1.sql 
+git commit -a -m "SIMBASE-13 Mergeing"
+git branch PATCHES_182 
+git cherry-pick -x 55d7723d
+
+Webhook
+cherry-pick
+
+
+GIT Learn Part-II
+
+cd /c/Data/TIETO-PROECTS/SIMBase/Technical/Learning's/DevOps Tools/JenkinsPiplineDemo
