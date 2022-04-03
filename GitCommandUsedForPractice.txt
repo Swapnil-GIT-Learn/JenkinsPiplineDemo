@@ -53,6 +53,18 @@
    78  git push -u LearRepo GIT-Learn
    80  git log
    81  git history
+   83  git reflog
+   85  history | grep "git " > command.txt
+   86  git add .
+   87  git commit -m "New File"
+   88  git push -u LearRepo GIT-Learn
+   89  git checkout GIT-Learn-I
+   91  git push -u LearRepo GIT-Learn-I
+   92  git log --graph
+   93  git checkout main
+   94  git log --graph
+   95  git checkout GIT-Learn-I 
+   96  history | grep 'git' > GitCommandUsedForPractice.txt
    82  git pull LearRepo GIT-Learn
    83  git reflog
    85  history | grep "git " > command.txt
